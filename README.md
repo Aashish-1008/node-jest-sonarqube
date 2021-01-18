@@ -3,7 +3,7 @@
 1. Start Sonarqube server `docker-compose -f docker-compose.sonar.yml up`
 2. To perform the tests
 `npm run test`
-3. For executing the pipeline and committing SonarQube `npm run sonar`
+3. For executing the pipeline and committing to SonarQube `npm run sonar`
 
 Visit: http://0.0.0.0:9000/
 To check code coverage metrics.
